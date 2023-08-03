@@ -1,0 +1,7 @@
+tensorflow
+keras
+numpy
+matplotlib
+tf-explain
+pillow
+pathlib
